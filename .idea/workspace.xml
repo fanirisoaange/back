@@ -1,7 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="9df3a4b6-8154-4ca3-9975-6c925d3a28b8" name="Default" comment="" />
+    <list default="true" id="9df3a4b6-8154-4ca3-9975-6c925d3a28b8" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/web/product/24/20190808052535_5d4b962fe4070.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/30/20190808042617_5d4b8849c035a.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/31/20190808042705_5d4b88794e413.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/31/20190808054705_5d4b9b391880c.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/31/20190808061248_5d4ba1401b950.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/33/20190808043638_5d4b8ab677b79.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/34/20190808050024_5d4b9048b558a.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/34/20190808053454_5d4b985e9e4f0.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/web/product/35/20190808054850_5d4b9ba22c1f0.png" afterPath="" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -113,8 +123,8 @@
       <file leaf-file-name="AppBundle.php" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="50">
-              <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+            <state relative-caret-position="225">
+              <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -394,12 +404,12 @@
       <workItem from="1564970759295" duration="8269000" />
       <workItem from="1565110393906" duration="1402000" />
       <workItem from="1565204674317" duration="5323000" />
-      <workItem from="1565229954610" duration="6074000" />
+      <workItem from="1565229954610" duration="6667000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="46163000" />
+    <option name="totallyTimeSpent" value="46756000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-11" y="-11" width="1942" height="1042" extended-state="6" />
@@ -776,8 +786,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/AppBundle/AppBundle.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="50">
-          <caret line="2" column="1" lean-forward="false" selection-start-line="2" selection-start-column="1" selection-end-line="2" selection-end-column="1" />
+        <state relative-caret-position="225">
+          <caret line="9" column="0" lean-forward="true" selection-start-line="9" selection-start-column="0" selection-end-line="9" selection-end-column="0" />
           <folding />
         </state>
       </provider>
